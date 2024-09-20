@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>maven.demo</name>
+	<name>SparkFramework</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1726792625404</id>
+			<id>1714701803747</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
